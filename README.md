@@ -33,4 +33,4 @@ To run the calculator locally, you need to have Java Development Kit (JDK) insta
 
 1. Clone the repository:
 
-git clone https://github.com/souryamsam/Calculator_Code_On_Java.git
+$ git clone https://github.com/souryamsam/Calculator_Code_On_Java.git
